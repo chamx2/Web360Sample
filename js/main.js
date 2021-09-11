@@ -1,5 +1,5 @@
 const panoImage = document.querySelector('.pano');
-const samplePanoPath = '../images/pano2.jpg';
+const samplePanoPath = 'https://unsplash.com/photos/8UDJ4sflous';
 
 const panorama = new PANOLENS.ImagePanorama(samplePanoPath);
 const viewer = new PANOLENS.Viewer({
