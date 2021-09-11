@@ -1,0 +1,14 @@
+h1 
+{
+    font-size: 4.5em;
+    text-align: center;
+    margin: 35px 0;
+    
+}
+
+p
+{
+    font-size: 16px;
+    max-width: 600px;
+    margin: 35px auto;
+}
