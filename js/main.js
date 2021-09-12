@@ -1,4 +1,4 @@
-const panoImage = document.querySelector('.pano');
+const panoImage = document.querySelector('.pano-container');
 const samplePanoPath = 'images/pano3.jpg';
 
 
